@@ -8,7 +8,8 @@
 ***
 ## About Me
 Hello. I want to gain knowledge in web development and plan to be a full stack developer. I hope this course will help me to start realizing my dream!
-***
+
+___
 
 ## Skills
 * ___HTML___
