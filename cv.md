@@ -31,7 +31,7 @@ alert( result );
 
 
 ## Education
-* ___Way-Up___
+* ___Way-Up Platform___
 * ___FreeCodeCamp___
 * ___HTML Academy___
 
